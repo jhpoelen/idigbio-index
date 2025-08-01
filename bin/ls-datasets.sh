@@ -1,6 +1,10 @@
 #!/bin/bash
 #
+# lists idigbio collection names, uuids and, if available, GBIF associated dataset uuids and dois.
+# 
+# uses:
 #
+# Preston, jq, mlr, duckdb
 
 set -x
 
