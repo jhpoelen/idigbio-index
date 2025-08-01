@@ -8,7 +8,9 @@ This project builds on [https://linker.bio](https://linker.bio/#use-case-4-asses
 
 For context, see [https://github.com/bio-guoda/preston/issues/353](https://github.com/bio-guoda/preston/issues/353) and [https://github.com/jhpoelen/idigbio-index](https://github.com/jhpoelen/idigbio-index).
 
-To download content associated with the collections/datasets right click on the link and "save as" - ```dwca.zip``` or similar . Download table as [csv](index.csv).
+To download content associated with the collections/datasets right click on the link and "save as" - ```dwca.zip``` or similar . 
+
+Like data? Download table below as [csv](index.csv).
 
 |name|date|idigbio uuid|gbif uuid|gbif doi
 |---|---|---|---|---
