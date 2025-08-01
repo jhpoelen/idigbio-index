@@ -1,6 +1,6 @@
 ---
 ---
-** this is a prototype ** 
+**this is a prototype** 
 
 Online digital biodiversity data platforms come and go. Natural occurring events such as scheduled maintenance, loss in funding, human error, or malicious hacking cause temporary or permanent disruption in access to online platforms.
 
