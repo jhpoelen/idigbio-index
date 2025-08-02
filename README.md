@@ -12,6 +12,12 @@ To download content associated with the collections/datasets right click on the 
 
 Like data? Download table below as [csv](index.csv).
 
+Like scripting? Have peek at the [bash script](bin/ls-datasets.sh) that produced this data.
+
+Like citing data? 
+
+> Preston. 2025. A digital corpus of biodiversity datasets registered with GBIF, iDigBio, and BioCASe. hash://sha256/9dcf2e5497722e4f8184dffbf1e39daabb72a47ccbefb9c1177b17261ac337a5 
+
 |name|date|idigbio uuid|gbif uuid|gbif doi
 |---|---|---|---|---
 {%- for dataset in site.data.datasets %}
