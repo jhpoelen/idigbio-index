@@ -17,7 +17,7 @@ Download table below as [csv](index.csv).
 Have peek at the [bash script](bin/ls-datasets.sh) that produced this data.
 
 ## Like citing data? 
-This data was generated from an extensive dataset that contains tracked biodiversity datasets in period 2018-2025. 
+This data was generated from an extensive dataset that contains tracked biodiversity datasets from period 2018/2025. 
 
 > Preston. 2025. A digital corpus of biodiversity datasets registered with GBIF, iDigBio, and BioCASe. [hash://sha256/9dcf2e5497722e4f8184dffbf1e39daabb72a47ccbefb9c1177b17261ac337a5](https://linker.bio/hash://sha256/9dcf2e5497722e4f8184dffbf1e39daabb72a47ccbefb9c1177b17261ac337a5).
 
