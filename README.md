@@ -2,7 +2,7 @@
 ---
 **this is a prototype** 
 
-Online digital biodiversity data platforms come and go. Naturally occurring events such as scheduled maintenance, loss in funding, human error, or malicious hacking cause temporary or permanent disruption in access to online platforms.
+This page provides links to most recently published Darwin Core archive of collection data registered in the iDigBio network. You can get the most recent version of your collection data by [clicking below](#like-point-and-click). The reason why there are multiple links (e.g., idigbio uuid, gbif uuid, doi) is to demonstrate that biodiversity datasets registered across multiple data networks (e.g., idigbio, gbif) have more pathways to being located, accessed, used, and preserved.
 
 This project builds on [https://linker.bio](https://linker.bio/#use-case-4-assessing-fairness-of-biodiversity-data) and [preston](https://globalbioticinteractions.org/preston) to help provide access to downloading archived/tracked Darwin Core Archives associated with iDigBio collection uuids and their related GBIF dataset uuids or GBIF DOIs.  
 
